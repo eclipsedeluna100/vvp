@@ -1,0 +1,5 @@
+﻿  vvp5.cpp
+C:\Users\Nout\source\repos\vvp5\vvp5.cpp(48,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Nout\source\repos\vvp5\vvp5.cpp(49,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Nout\source\repos\vvp5\vvp5.cpp(50,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  vvp5.vcxproj -> C:\Users\Nout\source\repos\vvp5\x64\Debug\vvp5.exe
