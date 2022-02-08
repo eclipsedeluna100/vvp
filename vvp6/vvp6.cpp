@@ -9,7 +9,7 @@ int main() {
 
 
 	float a, b, c;
-	cout << "Çíà÷åíèÿ a è b: ";
+	cout << "Ğ—Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ñ a Ğ¸ b: ";
 	cin >> a >> b;
 	c = a;
 	a = b;
@@ -17,7 +17,7 @@ int main() {
 	cout << "a = " << a << " b = " << b << endl;
 
 	float d;
-	cout << "Çíà÷åíèÿ a, b è c: ";
+	cout << "Ğ—Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ñ a, b Ğ¸ c: ";
 	cin >> a >> b >> c;
 	d = b;
 	b = a;
@@ -25,7 +25,7 @@ int main() {
 	c = d;
 	cout << "a = " << a << " b = " << b << " c = " << c << endl;
 
-	cout << "Çíà÷åíèÿ a, b è c: ";
+	cout << "Ğ—Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ñ a, b Ğ¸ c: ";
 	cin >> a >> b >> c;
 	d = a;
 	a = b;
