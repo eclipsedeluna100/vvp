@@ -11,10 +11,10 @@ int main()
 
 
     int n;
-    cout << "Öåíà çà 1êã êîíôåò: ";
+    cout << "Ğ¦ĞµĞ½Ğ° Ğ·Ğ° 1ĞºĞ³ ĞºĞ¾Ğ½Ñ„ĞµÑ‚: ";
     cin >> n;
     for (float i = 1; i <= 10; i++) {
-        cout << i/10 << " êã êîíôåò ñòîèò - " << n * (i/10) << endl;
+        cout << i/10 << " ĞºĞ³ ĞºĞ¾Ğ½Ñ„ĞµÑ‚ ÑÑ‚Ğ¾Ğ¸Ñ‚ - " << n * (i/10) << endl;
     }
 
 
@@ -44,7 +44,7 @@ int main()
     for (int i = 1; i <= n; i++) {
         s += pow(a, i);
     }
-    cout << "Ñóììà: " << s << endl;
+    cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ°: " << s << endl;
 
     s = 1;
     cout << "A, N: ";
@@ -53,6 +53,6 @@ int main()
     for (int i = 1; i <= n; i++) {
         s += pow(a, i);
     }
-    cout << "Ñóììà: " << s << endl;
+    cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ°: " << s << endl;
     return 0;
 }
