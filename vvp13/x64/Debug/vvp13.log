@@ -1,0 +1,6 @@
+﻿  vvp13.cpp
+C:\Users\Lenovo\source\repos\vvp13\vvp13.cpp(23,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\source\repos\vvp13\vvp13.cpp(27,17): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Lenovo\source\repos\vvp13\vvp13.cpp(45,17): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\vvp13\vvp13.cpp(54,17): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  vvp13.vcxproj -> C:\Users\Lenovo\source\repos\vvp13\x64\Debug\vvp13.exe
