@@ -1,0 +1,5 @@
+﻿  vvp15.cpp
+C:\Users\Lenovo\source\repos\vvp15\vvp15.cpp(25,17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\vvp15\vvp15.cpp(21): warning C4715: Sign: значение возвращается не при всех путях выполнения
+C:\Users\Lenovo\source\repos\vvp15\vvp15.cpp(42): warning C4715: Quarter: значение возвращается не при всех путях выполнения
+  vvp15.vcxproj -> C:\Users\Lenovo\source\repos\vvp15\x64\Debug\vvp15.exe
