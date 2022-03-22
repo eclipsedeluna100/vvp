@@ -87,12 +87,12 @@ int main()
         cin >> x;
         cout << "Y: ";
         cin >> y;
-        cout << "×åòâåğòü: " << Quarter(x, y) << endl;
+        cout << "Ğ§ĞµÑ‚Ğ²ĞµÑ€Ñ‚ÑŒ: " << Quarter(x, y) << endl;
     }
 
 
     int n;
     cout << "N: ";
     cin >> n;
-    cout << "Äâîéíîé ôàêòîğèàë: " << Fact2(n) << endl;
+    cout << "Ğ”Ğ²Ğ¾Ğ¹Ğ½Ğ¾Ğ¹ Ñ„Ğ°ĞºÑ‚Ğ¾Ñ€Ğ¸Ğ°Ğ»: " << Fact2(n) << endl;
 }
